@@ -1,9 +1,0 @@
-CITATIONS AND AI ACKNOWLEDGMENT
-Project: ORBIT / The Quiet Station
-Andrew ID: kangjiey
-
-OpenAI. ChatGPT. https://chatgpt.com/
-
-I used ChatGPT to brainstorm ideas for my mini-project and explore front-end design ideas, including the game's visual style, interface layout, colors, and presentation.
-
-Additional AI assistance with the project is documented in ai_prompts/ai_prompts.txt, including code generation and revision, debugging, and documentation. The brainstorming and design uses described above are part of that broader assistance.
